@@ -14,9 +14,9 @@ h3,
 h4,
 h5, 
 h6 {
-    font-family: 'EB Garamond', serif;
+    font-family: 'Roboto', serif;
     font-weight: 600;
-    font-style: italic;
+    /* font-style: italic; */
     color: #121518;
 }
 
@@ -90,6 +90,14 @@ a:focus {
     margin: 0;
     color: #aa9166;
     font-size: 75px;
+    line-height: 55px;
+    font-weight: 800;
+}
+
+.top-bar .logo h2 {
+    margin: 0;
+    color: #aa9166;
+    font-size: 45px;
     line-height: 55px;
     font-weight: 800;
 }
